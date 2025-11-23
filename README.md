@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src="imgs/gunslinger.gif" alt="ginslinger">
 
 <!--
