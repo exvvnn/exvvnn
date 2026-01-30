@@ -27,9 +27,9 @@
   align-items: center;
   gap: 10px;
   /* box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); */
-  /* box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  /* box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3); */
+
   
-  */
   transition: all 0.3s ease;
   margin: 20px auto;
   animation: float 3s ease-in-out infinite;
@@ -51,10 +51,6 @@
 .button-container {
   text-align: center;
   margin: 20px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
 }
 
 .coffee-button {

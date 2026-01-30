@@ -11,13 +11,6 @@
     <span id="playIcon">▶️</span>
     <span id="buttonText">Play Sound</span>
   </button>
-
-  <a href="https://buymeacoffee.com/ejdev" target="_blank" class="coffee-button">
-    <span>☕</span>
-    <span>Buy Me a Coffee</span>
-  </a>
 </div>
 
 <script src="src/script.js"></script>
-
-
