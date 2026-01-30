@@ -1,16 +1,18 @@
 <img src="imgs/gunslinger.gif" alt="ginslinger">
 
-<!--
-**qn1x-afk/qn1x-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+<link rel="stylesheet" href="src/styles.css">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<iframe id="video" width="0" height="0" src="https://www.youtube.com/embed/lqUE1hr0zKU?enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="button-container">
+  <button onclick="toggleAudio()" class="sound-button">
+    <span id="playIcon">▶️</span>
+    <span id="buttonText">Play Sound</span>
+  </button>
+</div>
+
+<script src="src/script.js"></script>
+
+
