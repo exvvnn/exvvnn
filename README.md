@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🛰️+Welcome+to+my+GitHub+Profile+🛰️)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Customized+shell+using+fish;+with+preconfigured+functionality;+Custom+build+by+yours+truly)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Customized+shell+using+fish;+with+preconfigured+functionality;+Please+ask+if+you+want+to+git+into+this;)](https://git.io/typing-svg)
 
 </div>
 
