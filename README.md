@@ -1,6 +1,8 @@
 
 <div align="center">
-  [![Welcome Landing]](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=35&duration=6000&pause=2000&color=F78E9A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
+  </a>
 </div>
 
 
