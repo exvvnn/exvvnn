@@ -1,13 +1,13 @@
 
 <div align="center">
   [![Welcome Landing](https://readme-typing-svg.demolab.com/?lines=%F0%9F%9B%8E+Welcome+to+my+GitHub+Profile+%F0%9F%9B%8E)](https://git.io/typing-svg)
-</div>e
+</div>
 
 
 ---
 
 <div align="center">
-  <img src="imgs/gunslinger.gif" alt="ginslinger">
+  <img src="imgs/gunslinger.gif" alt="gunslinger">
 </div>
 
 <br>
