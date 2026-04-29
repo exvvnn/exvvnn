@@ -1,6 +1,6 @@
 
 <div align="center">
-  [![Welcome Landing](https://readme-typing-svg.demolab.com/?lines=%20Welcome%20to%20my%20GitHub%20Profile%20%F0%9F%98%8B)](https://git.io/typing-svg)
+  [![Welcome Landing]](https://git.io/typing-svg)
 </div>
 
 
