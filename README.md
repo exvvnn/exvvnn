@@ -14,8 +14,8 @@
 
 <br>
 
-<div align="center">
-  <img src="imgs/shell.png" alt="shell">
-</div>
+[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+
+
 
 
